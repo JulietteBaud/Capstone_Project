@@ -18,8 +18,8 @@ The source of data that will be used is Foursquare. The target area for the open
 In Foursquare different information are available. The venues listed in different Neighborhoods, their names, their
 categories, the ratings of the places. 
 Data about already existing vegetarian and vegan restaurants will be used as well as information about other type of 
-restaurant around. For example a neighborhood with only fast food and steaj house around might not attrack the type of 
-client we are targeting. Also, information about other type of venues can be used, such as yoga studios and art galleries. 
+restaurant around. For example a neighborhood with only fast food and steak house around might not attrack the type of 
+clients we are targeting. Also, information about other type of venues can be used, such as yoga studios and art galleries. 
 This type of places tend to attract a more vegetarian and vegan population. 
-Also ratings of the places around can be used. A neighborhood with only bd rating places is not really attractive and avoided
+Ratings of the places around can be used. A neighborhood with only bd rating places is not really attractive and avoided
 by some potential customers. 
