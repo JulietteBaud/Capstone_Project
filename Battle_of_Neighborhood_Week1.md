@@ -10,11 +10,11 @@ proposing this kind of option. Some neighborhood might be more friendly to this 
 are attracting the same clientele around. 
 
 The goal of this project will be to evaluate some of those factors and use them to asses if there is more suitable areas 
-to open a vegetarian/vegan restaurant in Manhattan.
+to open a vegetarian/vegan restaurant in New York.
 
 # Description of the data used
 
-The source of data that will be used is Foursquare. The target area for the opennong of the restaurant is Manhattan, New York.
+The source of data that will be used is Foursquare. The target area for the openning of the restaurant New York.
 In Foursquare different information are available. The venues listed in different Neighborhoods, their names, their
 categories, the ratings of the places. 
 Data about already existing vegetarian and vegan restaurants will be used as well as information about other type of 
